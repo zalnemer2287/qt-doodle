@@ -1,9 +1,8 @@
 
 ---
 
-# 🎨 2. Qt Doodle (Paint App) — README
+# 🎨 Qt Doodle (Paint App) — README
 
-```md
 # Qt Doodle
 
 A simple paint/drawing application built with C++ and Qt.
