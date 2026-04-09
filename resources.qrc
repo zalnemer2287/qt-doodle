@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/imgs"/>
+    <qresource prefix="/">
+        <file>ClearScreen.png</file>
+        <file>Icon.png</file>
+        <file>Open.png</file>
+        <file>Print.png</file>
+        <file>SaveAs.png</file>
+        <file>Exit.png</file>
+        <file>About.png</file>
+        <file>ColourPalette.png</file>
+        <file>Help.png</file>
+        <file>InkDrop.png</file>
+        <file>Qt.png</file>
+    </qresource>
+</RCC>
