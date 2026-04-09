@@ -34,6 +34,7 @@ A simple paint/drawing application built with C++ and Qt.
 
 ### Option 1 (Recommended)
 1. Install Qt and Qt Creator
+2. Clone or download this repository
 2. Open the `.pro` file
 3. Configure project (Desktop Kit)
 4. Click Run
